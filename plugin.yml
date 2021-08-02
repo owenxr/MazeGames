@@ -1,5 +1,5 @@
 main: owenxr.main.Main
-version: 0.2
+version: 0.5.1
 name: MazeMinigame
 api-version: 1.17
 
