@@ -1,1 +1,1 @@
-"# MazeGames" 
+# MazeGames
